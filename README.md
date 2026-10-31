@@ -6,6 +6,8 @@
 - **Registration Number:** 252U1R8075
 - **Section:** CSE-QE-2B
 
+**Deployed link:**  https://backend-lab-1-6u7a.onrender.com 
+
 ## Objective
 
 To create a basic HTTP server using Node.js and build a web server using Express.js with multiple routes and proper HTTP status codes.
