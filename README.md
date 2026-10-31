@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** Bharath Kumar Reddy
-- **Registration Number:** 252U1R8047
+- **Name:** P.Sai Kumar Reddy
+- **Registration Number:** 252U1R8075
 - **Section:** CSE-QE-2B
 
 ## Objective
